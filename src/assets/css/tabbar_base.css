@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    letter-spacing: 1px;
+    font-size: 3vw;
+}
+
+
+/* li {
+    height: 49px;
+    border-bottom: 1px solid silver;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+li p {
+    font-size: 12px;
+} */
